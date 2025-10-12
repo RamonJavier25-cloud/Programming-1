@@ -1,0 +1,14 @@
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\bin\Debug\net9.0\If_it_is_even_or_odd.exe
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\bin\Debug\net9.0\If_it_is_even_or_odd.deps.json
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\bin\Debug\net9.0\If_it_is_even_or_odd.runtimeconfig.json
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\bin\Debug\net9.0\If_it_is_even_or_odd.dll
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\bin\Debug\net9.0\If_it_is_even_or_odd.pdb
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\obj\Debug\net9.0\If_it_is_even_or_odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\obj\Debug\net9.0\If_it_is_even_or_odd.AssemblyInfoInputs.cache
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\obj\Debug\net9.0\If_it_is_even_or_odd.AssemblyInfo.cs
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\obj\Debug\net9.0\If_it_is_even_or_odd.csproj.CoreCompileInputs.cache
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\obj\Debug\net9.0\If_it_is_even_or_odd.dll
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\obj\Debug\net9.0\refint\If_it_is_even_or_odd.dll
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\obj\Debug\net9.0\If_it_is_even_or_odd.pdb
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\obj\Debug\net9.0\If_it_is_even_or_odd.genruntimeconfig.cache
+C:\Users\RJB11\OneDrive\Documents\Curso C#\If_it_is_even_or_odd\If_it_is_even_or_odd\obj\Debug\net9.0\ref\If_it_is_even_or_odd.dll
