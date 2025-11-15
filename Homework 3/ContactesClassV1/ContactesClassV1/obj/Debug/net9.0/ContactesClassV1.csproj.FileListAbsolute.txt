@@ -1,0 +1,14 @@
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\bin\Debug\net9.0\ContactesClassV1.exe
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\bin\Debug\net9.0\ContactesClassV1.deps.json
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\bin\Debug\net9.0\ContactesClassV1.runtimeconfig.json
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\bin\Debug\net9.0\ContactesClassV1.dll
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\bin\Debug\net9.0\ContactesClassV1.pdb
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\obj\Debug\net9.0\ContactesClassV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\obj\Debug\net9.0\ContactesClassV1.AssemblyInfoInputs.cache
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\obj\Debug\net9.0\ContactesClassV1.AssemblyInfo.cs
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\obj\Debug\net9.0\ContactesClassV1.csproj.CoreCompileInputs.cache
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\obj\Debug\net9.0\ContactesClassV1.dll
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\obj\Debug\net9.0\refint\ContactesClassV1.dll
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\obj\Debug\net9.0\ContactesClassV1.pdb
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\obj\Debug\net9.0\ContactesClassV1.genruntimeconfig.cache
+C:\Users\RJB11\OneDrive\Documents\Curso C#\ContactesClassV1\ContactesClassV1\obj\Debug\net9.0\ref\ContactesClassV1.dll
